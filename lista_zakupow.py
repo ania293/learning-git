@@ -9,3 +9,5 @@ for shop, list in shopping_list.items():
     numb_prod += len(list)
 
 print(f"W sumie kupuje {numb_prod} produktow.")
+
+print("Pozdrowienia!!!")
