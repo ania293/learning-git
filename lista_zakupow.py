@@ -1,6 +1,7 @@
 shopping_list = {'piekarnia': ['chleb', 'paczek', 'bulka'],
                 'warzywniak': ['marchew', 'seler', 'rukola'],
-                'drogeria': ['szampon', 'krem']}
+                'drogeria': ['szampon', 'krem'],
+                'meblowy': ['komoda', 'stolik']}
 
 numb_prod = 0
 for shop, list in shopping_list.items():
